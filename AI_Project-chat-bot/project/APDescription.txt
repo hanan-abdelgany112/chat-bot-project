@@ -1,0 +1,1 @@
+( ap-description  :name "TestMain" :ap-services (set ( ap-service  :name fipa.mts.mtp.http.std :type fipa.mts.mtp.http.std :addresses (sequence http://DESKTOP-M4M2LR4.mshome.net:7778/acc))))
